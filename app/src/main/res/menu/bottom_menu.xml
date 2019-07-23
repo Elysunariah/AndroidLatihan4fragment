@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="pertama"
+        android:icon="@drawable/fbi"></item>
+    <item android:id="@+id/kdua"
+        android:title="kedua"
+        android:icon="@drawable/youtube"></item>
+    <item android:title="ketiga"
+        android:icon="@drawable/igg"></item>
+    <item android:title="keempat"
+        android:icon="@drawable/tweet"></item>
+    <item android:title="kelima"
+        android:icon="@drawable/whats"></item>
+
+
+
+</menu>

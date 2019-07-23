@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLatihan4.fragment</string>
+    <string-array name="data_list">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>Amerika</item>
+    </string-array>
+
+
+</resources>
